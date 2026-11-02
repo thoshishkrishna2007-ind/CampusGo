@@ -1,0 +1,6 @@
+{
+  "name": "CampusGo Administrative Portal",
+  "description": "Institutional student pass generation and faculty approval system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
